@@ -1,0 +1,4 @@
+.codesandbox/
+.vscode/
+dist/
+node_modules/
